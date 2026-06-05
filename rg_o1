@@ -1,0 +1,4 @@
+reaource"azurerm_resource_group" "rgnew"{
+  name="serebihar"
+  location="centralindia"
+  }
