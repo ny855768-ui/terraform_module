@@ -4,3 +4,4 @@ resource_group_name="rg_name"
 location="eastus"
 azzount_tier="Standard"
 account_replication_type="LRS"
+}
