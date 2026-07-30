@@ -41,3 +41,7 @@ resource"azurerm_resource_group""rg8"{
 name="rg8_name"
 location="centralindia"
 }
+resource"azurerm_resource_group""rg9"{
+name="rg9_name"
+location="centralindia"
+}
